@@ -9,7 +9,7 @@ class Anagram
     @allergy = allergy
   end
   
-  def match
+  def match(word)
     
   end
   
