@@ -12,7 +12,7 @@ class Anagram
   end
   
   def match(words_a)
-    
+    words_a.
   end
   
 end
