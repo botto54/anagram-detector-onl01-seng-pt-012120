@@ -1,6 +1,7 @@
 # Your code goes here!
 class Anagram
-   attr_accessor :diaper, :ba, :listen, :allergy
+   attr_accessor :word
+  # :diaper, :ba, :listen, :allergy
   
   def initialize(word)
     # @diaper = diaper
