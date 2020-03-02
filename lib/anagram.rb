@@ -4,6 +4,7 @@ class Anagram
   # :diaper, :ba, :listen, :allergy
   
   def initialize(word)
+    @word = word
     # @diaper = diaper
     # @ba = ba
     # @listen = listen
