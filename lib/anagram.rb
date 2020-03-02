@@ -11,7 +11,7 @@ class Anagram
     # @allergy = allergy
   end
   
-  def match(word)
+  def match(words_a)
     
   end
   
